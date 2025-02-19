@@ -1,0 +1,3 @@
+Newest version: Genone 2xx-1x0
+To update, use :cm-developer-cm-upd0 in :cm-developer-sc-loop
+  -Escobar's
